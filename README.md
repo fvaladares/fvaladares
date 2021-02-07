@@ -3,11 +3,11 @@
 <!--
 **fvaladares/fvaladares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I'm Fabricio Valadares, I have master degree in computer science by UFOP/DECOM/ICEB (Federal University of Ouro Preto), I'm a professor in this coleges: IBCMED - Sete Lagoas, PROMOVE - Sete Lagoas, PITÁGORAS - BH - Antônio Carlos :teacher:. 
+I'm Fabricio Valadares, I have master degree in computer science by UFOP/DECOM/ICEB (Federal University of Ouro Preto), I'm a professor in those coleges: IBCMED - Sete Lagoas, ~~PROMOVE - Sete Lagoas~~, PITÁGORAS - BH - Antônio Carlos :teacher:. 
 
-We need to promove a more incusive environment on computer science and related areas. Let-me know if I can help you with something ;)
+I beleave that we need to promove a more incusive environment on computer science and related areas. 
 
-I love to share knowledge! 
+Let-me know if I can help you with something ;) I love to share knowledge! 
 
 I live in Pedro Leopoldo - Minas Gerais, and I'm passionated with new technologies. :heart:.
 - 🌱 I’m currently learning Native Android Development (Kotlin), Flutter (We always have something new to learn!)
