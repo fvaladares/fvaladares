@@ -33,7 +33,6 @@ A special thanks for @KamilyKathleen[https://github.com/KamilyKathleen] my under
 ## GitHub statistics
 
 <div style="display: inline-block" align="center"><br>
-    <img height="180" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fvaladares&show_icons=true&theme=react&border_radius=10">
     <img height="180" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvaladares&layout=donut&theme=react&border_radius=10">
 </div>
 <!-- Here are some ideas to get you started:
